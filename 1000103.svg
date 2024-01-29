@@ -1,0 +1,11 @@
+
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270"
+    height="268">
+    <image width="270" height="268"
+        xlink:href="./1000103.png?domain=170uat202310091346&amp;workSpaceId=ws170uat202320240124100450"></image>
+    
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1">
+    <polygon points="205,100 195,100 195,90 205,90 205,100" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a></svg>
