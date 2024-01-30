@@ -1,0 +1,61 @@
+
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3461"
+    height="2287">
+    <image width="3461" height="2287"
+        xlink:href="./1000200_1.png?domain=170uat202310091346&amp;workSpaceId=ws170uat202320231009142346"></image>
+    
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000126">
+    <polygon points="3055,408 2975,408 2975,328 3055,328 3055,408" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000109">
+    <polygon points="2784,545 2704,545 2704,465 2784,465 2784,545" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000104">
+    <polygon points="2530,694 2450,694 2450,613 2530,613 2530,694" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000103">
+    <polygon points="2322,823 2242,823 2242,742 2322,742 2322,823" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000117">
+    <polygon points="2091,1006 2010,1006 2010,926 2091,926 2091,1006" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000131">
+    <polygon points="1516,1268 1436,1268 1436,1188 1516,1188 1516,1268" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000103">
+    <polygon points="1037,1561 957,1561 957,1481 1037,1481 1037,1561" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000104">
+    <polygon points="849,1663 769,1663 769,1583 849,1583 849,1663" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000132">
+    <polygon points="664,1772 584,1772 584,1692 664,1692 664,1772" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000109">
+    <polygon points="479,1901 399,1901 399,1821 479,1821 479,1901" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a>
+    <a onclick="javascript:pcsGlobal.canvasClickHandler(this)" id="1000128">
+    <polygon points="251,2011 171,2011 171,1931 251,1931 251,2011" fill="transparent"
+        onfocusin="evt.target.setAttribute('stroke', 'red')"
+        onfocusout="evt.target.setAttribute('stroke','transparent')" />
+    </a></svg>
