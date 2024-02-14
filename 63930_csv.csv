@@ -1,0 +1,2 @@
+status,orgId,shortDescription_EN,longDescription_EN,lastUpdateDate,sorId
+schema,type=string&uid,type=string,type=string,type=date,type=string
